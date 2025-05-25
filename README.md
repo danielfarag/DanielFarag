@@ -21,7 +21,7 @@ My journey started with a strong interest in software development. Now, I'm full
 
 ---
 
-### My Latest Adventures (Projects) 📂
+### My Latest Adventures ([Projects](https://github.com/danielfarag/projects)) 📂
 
 * **3-tier application deployment with github-actions**: Provision 3 tier application infrastructure with public/private subnets, security groups, NAT and SSM for configuration. Implement a simple CI/CD using Github actions.
 * **Private Network for Jenkins Slaves**: Engineered private Jenkins slave connectivity via VPC Endpoints and AWS Systems Manager (SSM). Achieved highly secure and scalable environment with no direct network exposure from the master.
