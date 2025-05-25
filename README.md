@@ -41,9 +41,9 @@ My journey started with a strong interest in software development. Now, I'm full
 
 I'm always open to connecting with fellow engineers, sharing knowledge, and contributing to open-source projects.
 
-* LinkedIn: [@me](http://linkedin.com/in/danielfarag12)
-* GitHub: [@me](https://github.com/danielfarag/DanielFarag/new/main)
-* Email: danielfarag146@gmail.com
+* LinkedIn: [@danielfarag12](http://linkedin.com/in/danielfarag12)
+* GitHub: [@danielfarag](https://github.com/danielfarag)
+* Email: [danielfarag146@gmail.com](mailto:danielfarag146@gmail.com)
 
 ---
 
